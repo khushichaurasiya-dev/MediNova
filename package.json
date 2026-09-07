@@ -1,0 +1,28 @@
+{
+  "name": "medinova",
+  "version": "1.0.0",
+  "description": "A healthcare web solution developed for Smart India Hackathon to improve accessibility and awareness of medical services.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev":"vite"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/khushichaurasiya-dev/MediNova.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/khushichaurasiya-dev/MediNova/issues"
+  },
+  "homepage": "https://github.com/khushichaurasiya-dev/MediNova#readme",
+  "dependencies": {
+    "cors": "^2.8.6",
+    "dotenv": "^17.4.2",
+    "express": "^5.2.1",
+    "openai": "^7.10.0"
+  }
+}
